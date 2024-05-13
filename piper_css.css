@@ -1,0 +1,175 @@
+@import url('normalize.css');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    font-family: Roboto, sans-serif;
+}
+
+.main_container {
+    width: 100%;
+    max-width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+.heading_title {
+    margin-top: 48px;
+    color: #007765;
+    font-size: 64px;
+    line-height: 75px;
+    font-weight: 50;
+    font-style: normal;
+    text-align: center;
+}
+
+.header_container {
+    width: 100%;
+    background-color: #007765;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    z-index: 21;
+    transition: height 1s ease-in-out;
+}
+
+.navigation_container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu_link {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration: none;
+    color: #fff;
+    transition: color .2s linear;
+    transition: font-size .3s linear;
+}
+
+.menu_link:hover {
+    color: #00342C;
+    font-size: 28px;
+}
+
+.jumbotron {
+    background-image: url(image-7.png);
+    background-size: cover;
+    background-position: center;
+    margin-top: 84px;
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+
+.main_title {
+    text-align: center;
+    font-size: 72px;
+    font-weight: 500;
+    color: #fff;
+    line-height: 84px;
+}
+
+#Problem {
+    background-color: #fff;
+    padding: 0;
+    padding-bottom: 84px;
+}
+
+.problem_text {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+#Hero {
+    background-image: url(image-6.png);
+    background-size: cover;
+    background-position: center;
+    margin-top: 0;
+    padding-top: 160px;
+    padding-bottom: 160px;
+    max-width: 1219;
+}
+
+.manifest_text {
+    font-style: italic;
+    font-size: 48px;
+    font-weight: 500;
+    color: #fff;
+    line-height: 64px;
+    text-align: center;
+}
+
+#PiedPiperCoin {
+    padding-bottom: 92px;
+}
+
+.coin_text {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.logo {
+    float: left;
+    padding-right: 25px;
+}
+
+#Team {
+    background-color: #EEEEEE;
+    padding-bottom: 50px;
+}
+
+.name {
+    color: #007765;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.card {
+    width: 350px;
+    height: 283px;
+    text-align: center;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    padding-bottom: 55px;
+}
+
+figure {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+footer {
+    background-color: #333333;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    height: 176px;
+    max-width: 1219px;
+    padding-top: 40px;
+    padding-left: 170px;
+    padding-right: 170px;
+}
