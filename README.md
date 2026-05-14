@@ -13,8 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="www.linkedin.com/in/d1gitale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="23509650" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23509650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23509650" height="30" width="40" /></a>
-<a href="https://kaggle.com/digitale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="digitale" height="30" width="40" /></a>
+<a href="https://discord.com/users/605342934287515648" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/discord.svg" alt="23509650" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nkalinin2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nkalinin2020" height="30" width="40" /></a>
 </p>
 
