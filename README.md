@@ -13,7 +13,7 @@
 
 <p align="center">If you want to contact me:</p>
 <p align="center">
-  <a href="mailto:nkalinin2020@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/discord.svg" height="30" width="40" /></a>
+  <a href="mailto:nkalinin2020@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/d1gitale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" height="30" width="40" /></a>
   <a href="https://discord.com/users/605342934287515648" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/discord.svg" height="30" width="40" /></a>
 </p>
